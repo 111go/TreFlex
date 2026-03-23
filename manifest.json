@@ -1,0 +1,10 @@
+{
+  "id": "topic-map",
+  "name": "Topic Map",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Hierarchical topic map where every node is a real markdown file. Add parent/child nodes, double-click to open.",
+  "author": "You",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
