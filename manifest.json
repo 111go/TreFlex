@@ -1,10 +1,11 @@
 {
-  "id": "topic-map",
-  "name": "Topic Map",
-  "version": "1.0.0",
+  "id": "treflex",
+  "name": "TreFlex",
+  "version": "2.0.0",
   "minAppVersion": "0.15.0",
-  "description": "Hierarchical topic map where every node is a real markdown file. Add parent/child nodes, double-click to open.",
-  "author": "You",
-  "authorUrl": "",
-  "isDesktopOnly": false
+  "description": "Hierarchical knowledge map where every node is a real markdown file. Named edges, inline editing, content-driven sizing.",
+  "author": "GoKul",
+  "authorUrl": "https://github.com/111go",
+  "fundingUrl":"https://github.com/111go/TreFlex.git",
+  "isDesktopOnly": true
 }
